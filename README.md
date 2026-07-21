@@ -1,4 +1,4 @@
-# Airbnb Price Category Classifier
+# Price_Category_Classifier
 
 A machine learning project that predicts whether an Airbnb listing is **high priced** or **low priced** based on features like accommodations, host info, and location.
 
@@ -34,4 +34,3 @@ python -m pip install pandas numpy matplotlib seaborn scikit-learn tensorflow ip
 ## Results
 
 At the end of the notebook, you'll see a side-by-side table comparing the Logistic Regression and Neural Network models on Accuracy and F1 Score.# Price_Category_Classifier_ML
-# Price_Category_Classifier
